@@ -11,17 +11,29 @@ A comprehensive Power BI dashboard built from the UCI Online Retail II dataset, 
 - Monthly revenue trend with clear Christmas seasonality
 - Revenue by country (bar + interactive map)
 
+<div>
+  <img src="https://https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/1.JPG"/>
+</div>
+
 ### Page 2: Analysis – Intermediate Metrics
 - UK vs International revenue split (86% UK)
 - Top 10 bestselling products (cleaned – excludes manual adjustments)
 - Customer type breakdown (Registered vs Anonymous)
 - AOV trend and detailed country performance table
 
+<div>
+  <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/2.JPG"/>
+</div>
+
 ### Page 3: Insights – Advanced Metrics
 - Customer retention: 28% one-time buyers
 - Pareto analysis: Top 20% of customers (~1,175) generate ~65–70% of revenue
 - First-Time vs Repeat revenue trends over time
 - Monthly revenue with YoY growth visualization
+
+<div>
+  <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/3.JPG"/>
+</div>
 
 ### Interactive Features
 - Year slicers across all pages

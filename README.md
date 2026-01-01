@@ -12,7 +12,7 @@ A comprehensive Power BI dashboard built from the UCI Online Retail II dataset, 
 - Revenue by country (bar + interactive map)
 
 <div>
-  <img src="https://https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/1.JPG"/>
+  <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/1.JPG"/>
 </div>
 
 ### Page 2: Analysis – Intermediate Metrics
